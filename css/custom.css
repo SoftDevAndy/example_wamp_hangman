@@ -1,0 +1,38 @@
+body{
+	background: black;	
+	text-align: center;	
+	color: white;
+}
+
+.tries{
+	color:green;
+	font-size: 20px;
+}
+
+.timer{
+	color:white;
+	font-size: 30px;
+}
+
+.username{
+	font-size: 40px;
+	color:red;
+}
+
+.warning{
+	color:red;
+}
+
+.welcomeText{
+	font-size: 40px;
+}
+
+.highScoreTitle{
+	color: red;
+	font-size: 35px;
+}
+
+.highScores{
+	color: green;
+	font-size: 25px;
+}

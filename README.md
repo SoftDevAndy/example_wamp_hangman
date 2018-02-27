@@ -1,4 +1,4 @@
-# example_wamp_hangman
+# fullstack-hangman
 Very basic Hangman implementation, a fullstack example for a tutorial I'm giving, use it how you see fit
 
 **About**
@@ -8,7 +8,7 @@ Code is commented.
 
 **Technologies Used**
 
-- Barebones Html/CSS
+- HTML/CSS
 - JavaScript
 - jQuery
 - PHP

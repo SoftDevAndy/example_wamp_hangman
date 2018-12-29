@@ -14,6 +14,3 @@ Code is commented.
 - PHP
 
 **Screenshots**
-
-![Screenshot 1](https://puu.sh/xbDjN/1585fb484c.png "Screenshot 1")
-![Screenshot 2](https://puu.sh/xbDmq/de518ff59c.png "Screenshot 2")

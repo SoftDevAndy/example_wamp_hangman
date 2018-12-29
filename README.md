@@ -12,5 +12,3 @@ Code is commented.
 - JavaScript
 - jQuery
 - PHP
-
-**Screenshots**
